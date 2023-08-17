@@ -18,3 +18,6 @@ GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
 [glados]: https://github.com/glados-network/GLaDOS
 [pushplus]: https://www.pushplus.plus/
+
+
+update/
